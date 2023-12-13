@@ -1,0 +1,19 @@
+{
+    "dogs": [
+        {
+            "name": "Buddy",
+            "trick": "Sit",
+            "level": 2
+        },
+        {
+            "name": "Max",
+            "trick": "Roll over",
+            "level": 3
+        },
+        {
+            "name": "Charlie",
+            "trick": "Shake",
+            "level": 1
+        }
+    ]
+}
